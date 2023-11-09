@@ -1,0 +1,41 @@
+{
+  "WBUI2": {
+    "settings": {
+        "OpenButton": 0,
+        "HideIcon": false,
+        "HideIconAfter": 60,
+        "IconURL": "https://i.imgur.com/OZ6xOjY.png",
+        "DisableIconText": false,
+        "IconPosition": 0,
+        "IconTextColor": 0,
+        "OpenOnStart": true,
+        "OpenOnStartOnlyNewPlayers": true,
+        "UpdateInterval": 12
+      },
+    "tabs": [
+      {
+        "tab1": {
+          "layout": 1,
+          "buttontext": "Welcome",
+          "title1": "ArkForever x50 PVE",
+          "text1": "Добро пожаловать!\nНет времени фармить по 15 часов в день? Надоело искать нормальных дино? Хочется вывести топовую живку? Просто хотите получить удовольствие от игры?\nВЫ ЗАШЛИ НА ПРАВИЛЬНЫЙ СЕРВЕР!\n\n\nСамое общительное и отзывчевое комьюнити\nСамые топовые моды\nУдобные настройки для игры\nПостоянное развитие сервера\nИ ещё много приятностей в дальнейшем ждёт вас! \n\nТекущий экран доступен по нажатию на F1\nУбедительно просим Вас прочесть правила сервера в Discord. Они очень простые, но очень важные для всего сообщества!\n\n\nПрисоединяйтесь к нашему Discord, чтобы быть в курсе всех событий. ",
+          "imageurl": "https://i.imgur.com/mGt3cAF.png"
+        }
+      }
+    ],
+    "links": [
+      {
+        "link1": {
+          "text": "Discord",
+          "url": "https://discord.gg/4br8cWfRhn"
+        }
+      },
+      {
+        "link2": {
+          "text": "Shop",
+          "url": "https://arkforeverasa50.survivalshop.org/"
+        }
+      }
+    ]
+  }
+}
