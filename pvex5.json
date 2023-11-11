@@ -1,0 +1,41 @@
+{
+  "WBUI2": {
+    "settings": {
+        "OpenButton": 0,
+        "HideIcon": true,
+        "HideIconAfter": 60,
+        "IconURL": "https://i.imgur.com/OZ6xOjY.png",
+        "DisableIconText": false,
+        "IconPosition": 0,
+        "IconTextColor": 0,
+        "OpenOnStart": true,
+        "OpenOnStartOnlyNewPlayers": true,
+        "UpdateInterval": 12
+      },
+    "tabs": [
+      {
+        "tab1": {
+          "layout": 1,
+          "buttontext": "Welcome",
+          "title1": "ArkForever x5 PVE",
+          "text1": "Добро пожаловать!\n\n\nМы рады всем игрокам, но просим соблюдать правила!n\nОсновное описание:\nУвеличены статы игрока\nМаксимальный уровень дино 240\nСнижен расход еды и воды у персонажей и дино\nУдлинен день, уменьшена ночь\nОтключена коллизия\nВ пещерах летать нельзя\nОтключена загрузка данных\nРейты XP, добыча, тамление x5\nРыбалка x5\nЛучи x5\nУвеличен спавн Анкилозавров, Доедикурусов, Мегаланий и Спинозавров\nПосле определенного уровня очков энграмм хватит на всё\nУвеличен урон прирученных дино\nУменьшен КД на спаривание\nУменьшено время вылупления яиц\nУскорен рост детенышей\nМаксимальная привязка через мод Magic\n\n\nУбедительно просим Вас прочесть правила сервера в Discord. Они очень простые, но очень важные для всего сообщества!\n\n\nПрисоединяйтесь к нашему Discord, чтобы быть в курсе всех событий. ",
+          "imageurl": "https://i.imgur.com/mGt3cAF.png"
+        }
+      }
+    ],
+    "links": [
+      {
+        "link1": {
+          "text": "Discord",
+          "url": "https://discord.gg/4br8cWfRhn"
+        }
+      },
+      {
+        "link2": {
+          "text": "Shop",
+          "url": "https://afapve5.survivalshop.org/"
+        }
+      }
+    ]
+  }
+}
